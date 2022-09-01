@@ -42,7 +42,7 @@ const addNow = (homeCardId) =>{
     // console.log(hour, minute);
 
     // index = 0;
-    // console.log(index);
+    // console.log(index);  
 
     minute = hour*60+minute;
 
